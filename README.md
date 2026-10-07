@@ -28,4 +28,4 @@
 
 新しいビジネスや技術の背景を素早く把握し、目標と制約を明確にして、実現可能なスコープと導入手順を定めます。求められる役割に応じたスキルシートを用いて、関連する経験の提示や担当領域のご説明が可能です。
 
-[LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [Livoleta](https://livoleta.com/)
+[LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [相談の受付](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true) · [Livoleta](https://livoleta.com/)
