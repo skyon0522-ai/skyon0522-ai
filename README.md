@@ -27,3 +27,5 @@
 - AWS Certified Solutions Architect – Associate
 
 新しいビジネスや技術の背景を素早く把握し、目標と制約を明確にして、実現可能なスコープと導入手順を定めます。求められる役割に応じたスキルシートを用いて、関連する経験の提示や担当領域のご説明が可能です。
+
+[Livoc](https://livoc.pages.dev/)
