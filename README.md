@@ -1,16 +1,29 @@
-## Hi there 👋
+# 事業戦略とIT戦略の整合、要件定義およびシステム設計
 
-<!--
-**skyon0522-ai/skyon0522-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+組織の目的や事業戦略をIT戦略と結び付け、その方向性を施策、業務要件、システム設計、実装、テスト、運用引き継ぎへと落とし込みます。
 
-Here are some ideas to get you started:
+## 直近の担当案件
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+農業分野の中小企業において、全社目標や上位・下位戦略をもとにしたIT戦略の整合、施策と業務の定義、要件定義を担当しました。技術選定、設計・構築、実装、テスト、運用の立ち上げまで対応しました。担当範囲には、DX/AX、AI活用基盤およびAI導入、業務・顧客管理システムが含まれます。
+
+## 自主研究
+
+交換可能性、可搬性、ブラックボックス化の回避、自律的な開発ワークフロー、ならびにハーネス（実行・評価環境）やコンテキストの管理に着目し、AI環境の設計と構築を研究しています。
+
+## 関連する経験
+
+- 事業戦略とIT戦略の整合、要件定義およびシステム設計
+- AWS基盤設計、可用性・復旧・運用設計
+- ローカルLLM環境を含むAI導入およびAI利用環境
+- セキュリティ設計および実装
+- 開発経験全般: 約5年
+- インフラ経験: 2〜3年
+- AI関連の経験: 3年
+
+## 保有資格
+
+- ITストラテジスト（ST）
+- 応用情報技術者（AP）
+- AWS Certified Solutions Architect – Associate
+
+新しいビジネスや技術の背景を素早く把握し、目標と制約を明確にして、実現可能なスコープと導入手順を定めます。求められる役割に応じたスキルシートを用いて、関連する経験の提示や担当領域のご説明が可能です。
