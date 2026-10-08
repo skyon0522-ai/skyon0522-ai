@@ -2,6 +2,27 @@
 
 組織の目的や事業戦略をIT戦略と結び付け、その方向性を施策、業務要件、システム設計、実装、テスト、運用引き継ぎへと落とし込みます。
 
+## 公開している技術資料とツール
+
+用途、実行手順、検証結果を確認できる資料とツールを公開しています。
+
+| テーマ | 成果物 | 内容と確かめ方 |
+| --- | --- | --- |
+| 戦略・要件定義・システム設計 | [IT Strategy & Engineering Casebook](https://github.com/skyon0522-ai/it-strategy-engineering-casebook) | 担当範囲を示す案件概要、設計・導入の資料、再現できる技術検証。 |
+| AI実行環境の検証 | [Agent Runtime Contracts](https://github.com/skyon0522-ai/agent-runtime-contracts) | 同じPythonコードの返り値と処理順を比較し、実行コマンド、観測結果、テスト記録を公開。 |
+| クラウド連携の信頼性 | [Retry Budget Lab](https://github.com/skyon0522-ai/retry-budget-lab) | 障害時の再試行回数、完了率、待ち時間をシミュレーションし、条件を変えて結果を再現。 |
+
+## OSSへの貢献
+
+不具合の再現、修正、回帰テストに取り組んでいます。提出内容とレビュー状況は各PRで確認できます。
+
+| プロジェクト | 修正内容 |
+| --- | --- |
+| [VS Code #340474](https://github.com/microsoft/vscode/pull/340474) | チャットごとの作業ディレクトリをコマンド実行に反映。 |
+| [Deno #36990](https://github.com/denoland/deno/pull/36990) | fix(publish): reject reachable JSR self imports |
+| [attrs #1641](https://github.com/python-attrs/attrs/pull/1641) | 辞書のキーと値を変換する際にも、指定した除外条件を保持。 |
+| [LiteLLM #45304](https://github.com/BerriAI/litellm/pull/45304) | 認可情報を管理用キャッシュの入れ替えによる影響から分離。 |
+
 ## 直近の担当案件
 
 農業分野の中小企業において、企業目的・事業戦略とIT戦略の整合、施策・業務の具体化、要件定義を担当しました。技術選定から設計・構築、実装、テスト、運用開始まで対応しました。AI導入の基盤としてMicrosoft 365（M365）を整備し、Work IQによる業務コンテキストの形成を目的としました。対象にはAI導入と業務・顧客管理システムが含まれます。
@@ -28,4 +49,8 @@
 
 新しいビジネスや技術の背景を素早く把握し、目標と制約を明確にして、実現可能なスコープと導入手順を定めます。求められる役割に応じたスキルシートを用いて、関連する経験の提示や担当領域のご説明が可能です。
 
-[Technical casebook](https://github.com/skyon0522-ai/it-strategy-engineering-casebook) · [LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [相談の受付](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true) · [Livoleta](https://livoleta.com/)
+## 連絡先
+
+提供サービスはLivoletaに、職歴や相談の受付はLinkedInにまとめています。
+
+[Livoleta](https://livoleta.com/) · [LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [相談の受付](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true)
