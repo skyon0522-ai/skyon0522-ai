@@ -51,6 +51,4 @@
 
 ## 連絡先
 
-提供サービスはLivoletaに、職歴や相談の受付はLinkedInにまとめています。
-
-[Livoleta](https://livoleta.com/) · [LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [相談の受付](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true)
+[LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [相談の受付](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true)
