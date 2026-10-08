@@ -1,54 +1,54 @@
-# 事業戦略とIT戦略の整合、要件定義およびシステム設計
+# Aligning Business Strategy and IT Strategy, Requirements Definition, and System Design
 
-組織の目的や事業戦略をIT戦略と結び付け、その方向性を施策、業務要件、システム設計、実装、テスト、運用引き継ぎへと落とし込みます。
+I connect organizational goals and business strategy with IT strategy, translating that direction into initiatives, business requirements, system design, implementation, testing, and operational handover.
 
-## 公開している技術資料とツール
+## Published Technical Documentation and Tools
 
-用途、実行手順、検証結果を確認できる資料とツールを公開しています。
+I publish documentation and tools covering use cases, execution procedures, and verification results.
 
-| テーマ | 成果物 | 内容と確かめ方 |
+| Topic | Deliverable | Details and Verification |
 | --- | --- | --- |
-| 戦略・要件定義・システム設計 | [IT Strategy & Engineering Casebook](https://github.com/skyon0522-ai/it-strategy-engineering-casebook) | 担当範囲を示す案件概要、設計・導入の資料、再現できる技術検証。 |
-| AI実行環境の検証 | [Agent Runtime Contracts](https://github.com/skyon0522-ai/agent-runtime-contracts) | 同じPythonコードの返り値と処理順を比較し、実行コマンド、観測結果、テスト記録を公開。 |
-| クラウド連携の信頼性 | [Retry Budget Lab](https://github.com/skyon0522-ai/retry-budget-lab) | 障害時の再試行回数、完了率、待ち時間をシミュレーションし、条件を変えて結果を再現。 |
+| Strategy, Requirements Definition, and System Design | [IT Strategy & Engineering Casebook](https://github.com/skyon0522-ai/it-strategy-engineering-casebook) | Project overview showing scope of responsibility, design and deployment documentation, and reproducible technical validation. |
+| AI Runtime Environment Verification | [Agent Runtime Contracts](https://github.com/skyon0522-ai/agent-runtime-contracts) | Compares return values and execution order for identical Python code; publishes execution commands, observed results, and test records. |
+| Cloud Integration Reliability | [Retry Budget Lab](https://github.com/skyon0522-ai/retry-budget-lab) | Simulates retry counts, completion rates, and latency during failures, reproducing results under varied conditions. |
 
-## OSSへの貢献
+## OSS Contributions
 
-不具合の再現、修正、回帰テストに取り組んでいます。提出内容とレビュー状況は各PRで確認できます。
+I work on bug reproduction, fixes, and regression testing. Submission details and review status can be verified in each PR.
 
-| プロジェクト | 修正内容 |
+| Project | Fix Details |
 | --- | --- |
-| [VS Code #340474](https://github.com/microsoft/vscode/pull/340474) | チャットごとの作業ディレクトリをコマンド実行に反映。 |
+| [VS Code #340474](https://github.com/microsoft/vscode/pull/340474) | Reflect per-chat working directory in command execution. |
 | [Deno #36990](https://github.com/denoland/deno/pull/36990) | fix(publish): reject reachable JSR self imports |
-| [attrs #1641](https://github.com/python-attrs/attrs/pull/1641) | 辞書のキーと値を変換する際にも、指定した除外条件を保持。 |
-| [LiteLLM #45304](https://github.com/BerriAI/litellm/pull/45304) | 認可情報を管理用キャッシュの入れ替えによる影響から分離。 |
+| [attrs #1641](https://github.com/python-attrs/attrs/pull/1641) | Preserves specified exclusion criteria when transforming dictionary keys and values. |
+| [LiteLLM #45304](https://github.com/BerriAI/litellm/pull/45304) | Isolates authorization information from the impact of administrative cache replacement. |
 
-## 直近の担当案件
+## Recent Engagement
 
-農業分野の中小企業において、企業目的・事業戦略とIT戦略の整合、施策・業務の具体化、要件定義を担当しました。技術選定から設計・構築、実装、テスト、運用開始まで対応しました。AI導入の基盤としてMicrosoft 365（M365）を整備し、Work IQによる業務コンテキストの形成を目的としました。対象にはAI導入と業務・顧客管理システムが含まれます。
+At an SME in the agricultural sector, I was responsible for aligning corporate purpose and business strategy with IT strategy, specifying initiatives and business processes, and defining requirements. My work covered technology selection, design and build, implementation, testing, and go-live. Microsoft 365 (M365) was established as the foundation for AI adoption, with the goal of forming business context through Work IQ. The scope included AI adoption alongside operational and customer management systems.
 
-## 自主研究
+## Independent Research
 
-交換可能性、可搬性、ブラックボックス化の回避、自律的な開発ワークフロー、ならびにハーネス（実行・評価環境）やコンテキストの管理に着目し、AI環境の設計と構築を研究しています。
+Focusing on interchangeability, portability, preventing systems from becoming black boxes, autonomous development workflows, and the management of harnesses (execution and evaluation environments) and context, I research the design and construction of AI environments.
 
-## 関連する経験
+## Relevant Experience
 
-- 事業戦略とIT戦略の整合、要件定義およびシステム設計
-- AWS基盤設計、可用性・復旧・運用設計
-- ローカルLLM環境を含むAI導入およびAI利用環境
-- セキュリティ設計および実装
-- 開発経験全般: 約5年
-- インフラ経験: 2〜3年
-- AI関連の経験: 3年
+- Alignment of business strategy and IT strategy, requirements definition, and system design
+- AWS infrastructure design, availability, recovery, and operational design
+- AI adoption and environments for using AI, including local LLM setups
+- Security design and implementation
+- General development experience: approximately 5 years
+- Infrastructure experience: 2–3 years
+- AI-related experience: 3 years
 
-## 保有資格
+## Qualifications
 
-- ITストラテジスト（ST）
-- 応用情報技術者（AP）
+- Information Technology Strategist Examination (ST)
+- Applied Information Technology Engineer Examination (AP)
 - AWS Certified Solutions Architect – Associate
 
-新しいビジネスや技術の背景を素早く把握し、目標と制約を明確にして、実現可能なスコープと導入手順を定めます。求められる役割に応じたスキルシートを用いて、関連する経験の提示や担当領域のご説明が可能です。
+I quickly grasp new business and technical contexts, clarify goals and constraints, and establish feasible scopes and implementation steps. Using skills profiles tailored to the required role, I can present relevant experience and explain areas of responsibility.
 
-## 連絡先
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [相談の受付](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true)
+[LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/) · [Consultation Requests](https://www.linkedin.com/services/page/80174a34781496037b/?viewAsBuyer=true)
