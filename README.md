@@ -27,6 +27,10 @@ and client work; the examples do not establish customer deployments.
 I recently reorganized these projects for public release. Their repository dates
 record publication work, rather than a timeline of my professional experience.
 
+## Upstream OSS contributions
+
+- **Apache Arrow Go — [PR #1385](https://github.com/apache/arrow-go/pull/1385), merged October 20, 2026 (UTC).** Fixed IPC writing of middle slices containing dense unions and validation of empty dense unions. Added regression tests for IPC roundtrips and the empty-array case; addressed maintainer feedback before merge.
+
 ## Let's talk
 
 [💬 Contact me on LinkedIn](https://www.linkedin.com/in/%E4%BA%AC%E4%BB%8B-%E9%BD%8B%E8%97%A4-5a84843a3/)
