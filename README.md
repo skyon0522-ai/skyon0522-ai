@@ -8,17 +8,14 @@
 
 ## Selected work
 
-Start with **Document Intake Review** for an AI document workflow and
-**Ops Daily Report** for a working operational tool. For cloud infrastructure,
-see **AWS VPC Topology Contracts**.
+Start with **Agent Runtime Contracts** to inspect a code agent's returned values
+and observable actions. Use **Retry Budget Lab** to compare retry work,
+deadline misses and successful-request latency in a local simulation.
 
 | Project | What to look for |
 | --- | --- |
-| [Document Intake Review](https://github.com/skyon0522-ai/document-intake-review) | Review an exact document version before JSONL export. |
-| [Ops Daily Report](https://github.com/skyon0522-ai/ops-daily-report) | Compare service logs in a searchable offline report. |
-| [AWS VPC Topology Contracts](https://github.com/skyon0522-ai/aws-vpc-topology-contracts) | Check subnet, route, and NAT relationships before deployment. |
-| [Tenant Request Portal](https://github.com/skyon0522-ai/tenant-request-portal) | Follow requester and staff workflows within a tenant. |
-| [Transactional Outbox Service](https://github.com/skyon0522-ai/transactional-outbox-service) | Commit an order and event together, then deduplicate delivery. |
+| [Agent Runtime Contracts](https://github.com/skyon0522-ai/agent-runtime-contracts) | Compare a fixed Python corpus against CPython and the smolagents interpreter, including callback traces. |
+| [Retry Budget Lab](https://github.com/skyon0522-ai/retry-budget-lab) | Compare capped backoff and full jitter using completed requests, retries and successful-request latency. |
 
 These are independent demonstration projects, with their own tests and limits.
 They are presented separately from [upstream OSS contributions](https://github.com/pulls?q=is%3Apr+author%3Askyon0522-ai)
@@ -30,6 +27,7 @@ record publication work, rather than a timeline of my professional experience.
 ## Upstream OSS contributions
 
 - **Apache Arrow Go — [PR #1385](https://github.com/apache/arrow-go/pull/1385), merged October 20, 2026 (UTC).** Fixed IPC writing of middle slices containing dense unions and validation of empty dense unions. Added regression tests for IPC roundtrips and the empty-array case; addressed maintainer feedback before merge.
+- **urllib3 — [PR #5329](https://github.com/urllib3/urllib3/pull/5329), merged October 21, 2026 (UTC).** Corrected the `HTTPHeaderDict.add(combine=True)` documentation and example to show that a new value combines with the last existing value. This was a documentation-only change.
 
 ## Let's talk
 
